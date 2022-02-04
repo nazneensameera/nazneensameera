@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nazneensameera
-- 👀 I’m interested in automation
+- 👀 I’m interested in manual testing and have knnowledge of automation
 - 🌱 I’m currently working on automation of a web application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
